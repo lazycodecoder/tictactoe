@@ -1,2 +1,2 @@
 # tictactoe
- just a CLI game written in C++
+ just a CLI tic tac toe game written in C++
